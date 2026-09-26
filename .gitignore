@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Environment / secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows
+desktop.ini
+
+# Archives / large datasets
+*.zip
