@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-streamlit
-scikit-learn
-SQLAlchemy
-PyMySQL
